@@ -1,0 +1,11 @@
+{
+  "effect.purgatoryrespawn2.limbo": "Limbo",
+  "effect.purgatoryrespawn2.limbo.warning": "You are about to respawn, it is recommended you find a safe location",
+  "effect.purgatoryrespawn2.limbo.out_of_bounds": "A force binds you to this world...",
+
+  "entity.purgatoryrespawn2.death_skull.revive_1": "Hold crouch for ",
+  "entity.purgatoryrespawn2.death_skull.revive_2": " seconds to revive player",
+  "entity.purgatoryrespawn2.death_skull.reconnect": "Waiting for player to reconnect...",
+  "entity.purgatoryrespawn2.death_skull.player_revived": "Player revived",
+  "entity.purgatoryrespawn2.death_skull.await_respawn": "Waiting for player to click respawn..."
+}
